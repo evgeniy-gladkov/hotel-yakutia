@@ -10,8 +10,10 @@ class AdminController extends Controller
     public function index(){
 //        return view('admin.layout.auth');
 //        return view('admin.layout.layout');
-        return view('admin.index');
 //        return view('admin.index');
+//        return view('admin.index');
+
+        return view('layout.index');
     }
 
 }
