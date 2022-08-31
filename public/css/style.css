@@ -1,0 +1,30 @@
+/* Nav-bar*/
+.navbar-bg-color{
+    background-color: #05ace7;
+}
+.font{
+    font-family: 'Playfair Display', serif;
+}
+.nav-link{
+    font-family: 'Times, Times New Roman', serif;
+    font-size: 1.2em;
+}
+.nav-link:hover{
+    color: white;
+}
+/* Nav-bar*/
+
+/* Carousel */
+.my-carousel{
+    padding: 0;
+}
+
+.my-carousel .carousel-item{
+    display: flex;
+    max-height: 500px;
+}
+
+.my-carousel .carousel-item img{
+    object-fit: cover;
+}
+/* Carousel */
