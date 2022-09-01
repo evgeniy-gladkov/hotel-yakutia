@@ -130,7 +130,7 @@
                     <li>(383) 266-97-19</li>
                     <li>Факс: (383) 266-53-08</li>
                     <li>yakutia-nsk@list.ru</li>
-                    <li>
+                    <li class="link-ico">
                         <a href="https://vk.com/hotelyakutia">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48" width="35px" height="35px">
                                 <path fill="#1976d2" d="M24 4A20 20 0 1 0 24 44A20 20 0 1 0 24 4Z"/>

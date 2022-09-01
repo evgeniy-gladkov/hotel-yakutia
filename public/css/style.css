@@ -54,4 +54,7 @@ footer{
     color: #c8c8c8;
 }
 
+.link-ico a:hover{
+    text-decoration: none;
+}
 /* footer */
