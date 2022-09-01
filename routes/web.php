@@ -1,6 +1,6 @@
 <?php
 
-use App\Http\Controllers\HomeController;
+use App\Http\Controllers\IndexController;
 use Illuminate\Support\Facades\Route;
 use App\Http\Controllers\Admin\AdminController;
 /*
@@ -14,6 +14,6 @@ use App\Http\Controllers\Admin\AdminController;
 |
 */
 
-Route::get('/', [HomeController::class, 'index']);
+Route::get('/', [IndexController::class, 'index'])->name('index');
 
-Route::get('/admin', [AdminController::class, 'index']);
+Route::get('/admin', [AdminController::class, 'index'])->name('admin.index');
