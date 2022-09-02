@@ -59,8 +59,24 @@ footer{
 }
 /* footer */
 
-/* Main */
+/* Main home*/
 main{
     font-family: 'Times, Times New Roman', serif;
+}
+.main-text-p{
+    font-size: 19px;
+}
+.img-center{
+    text-align: center;
+}
+.row-shadow{
+    border-radius: 10px;
+    padding: 15px;
+    box-shadow: 0 0 5px rgba(0,0,0,0.5);
+}
+.list li{
+    color: #1a202c;
+    font-size: 19px;
+    list-style: none;
 }
 /* Main */
